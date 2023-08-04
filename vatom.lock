@@ -1,0 +1,15 @@
+{
+  "id": "com.vatom.example.animations",
+  "name": "Example Animations",
+  "version": "1.0.0",
+  "beta": true,
+  "pluginType": "Personal",
+  "description": "Shows an example playing and blending animations on an object.",
+  "longDescription": ".",
+  "configuration": ".",
+  "category": "3d Objects",
+  "businessId": ".",
+  "price": 0,
+  "releaseNotes": ".",
+  "entrypoint": ""
+}
